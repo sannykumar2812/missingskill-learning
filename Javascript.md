@@ -1,4 +1,5 @@
 # Javascript Content
+ - control structure
  - Javascript tech debt
  - History
  - variables
@@ -24,6 +25,16 @@
      - const
 - Call by value and call by reference 
 <hr/>
+
+## Control structure
+| Control structure           | Used
+|------------------------ |-------------
+|`IF ELSE`|often used.|
+|`for`| Abstraction.|
+|`Switch case` |Better way available in JS. |
+|`While` |Normal.|
+|`DO While` |Normal.|
+
 
 ## Tech debt
 
