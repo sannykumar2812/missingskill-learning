@@ -80,6 +80,14 @@ Operators are used to perform operations on operands. following operators are us
 
 
 ![js 2](https://user-images.githubusercontent.com/88389614/128202532-d33650cb-b3fe-40f0-b1d7-e8f08733b37f.jpeg)
+
+
+
+
+
+
+![js 3](https://user-images.githubusercontent.com/88389614/128293086-7e996aa0-513c-4fcc-b273-cd9e23852b0c.jpeg)
+
 <hr/>
 
 
@@ -94,18 +102,19 @@ Operators are used to perform operations on operands. following operators are us
      - Higher order function
      - Pure Function
      - Immediately Invoked Function(IIFE)/Self Executing Function(SEF)  
-     - ES6 - Arrow Function
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <hr/>
+     - ES6 - Arrow Function 
+<br/>
+
+![js 4](https://user-images.githubusercontent.com/88389614/128293106-29c28360-96e3-4750-93d0-a6a7a29211c7.jpeg)
+
+
+
+
+
+
+![js 5](https://user-images.githubusercontent.com/88389614/128293116-ff659e7b-6b34-4e26-8f8d-f347b5cbc94b.jpeg)
+
+  <hr/>
     
 # Built in methods Content  
    - Array
@@ -117,3 +126,13 @@ Operators are used to perform operations on operands. following operators are us
 - parseint
 - parseout
 - JSON
+<br/>
+
+![js 6](https://user-images.githubusercontent.com/88389614/128293124-c9a51429-6906-484b-97bf-f984f05d0742.jpeg)
+
+
+
+
+
+
+![js 7](https://user-images.githubusercontent.com/88389614/128293138-9e993347-8eb9-4401-825a-2f5a29655b2b.jpeg)
