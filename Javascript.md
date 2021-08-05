@@ -80,3 +80,40 @@ Operators are used to perform operations on operands. following operators are us
 
 
 ![js 2](https://user-images.githubusercontent.com/88389614/128202532-d33650cb-b3fe-40f0-b1d7-e8f08733b37f.jpeg)
+<hr/>
+
+
+
+# Function content
+- Introduction
+- Properties of function
+    - Two ways for declaring a function
+         - Function Declaration
+         - Function Assignment 
+     - FRN(Function returning function)
+     - Higher order function
+     - Pure Function
+     - Immediately Invoked Function(IIFE)/Self Executing Function(SEF)  
+     - ES6 - Arrow Function
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <hr/>
+    
+# Built in methods Content  
+   - Array
+   - Object
+   - String
+## Built in function in ES6
+- settimeout
+- setinterval
+- parseint
+- parseout
+- JSON
